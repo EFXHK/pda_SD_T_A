@@ -32,7 +32,7 @@ class CardGame:
   
 
 
-def cards_total(self, cards):
+def cards_total(self, cards): #entire function should be indented further
   total # need to set total to 0 to start with
   for card in cards:
     total += card.value
